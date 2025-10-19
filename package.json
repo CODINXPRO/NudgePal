@@ -1,0 +1,9 @@
+{
+  "name": "nudgepal-workspace",
+  "private": true,
+  "scripts": {
+    "start": "cd NudgePal && npm start",
+    "start:clear": "cd NudgePal && npm run start:clear",
+    "start:offline": "cd NudgePal && node ./node_modules/expo/bin/cli start --offline"
+  }
+}
