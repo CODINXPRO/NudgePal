@@ -1,0 +1,52 @@
+# Root gitignore for workspace control
+# Logs
+*.log
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editors/IDE
+.idea/
+.vscode/
+
+# Node/Expo
+node_modules/
+.expo/
+dist/
+web-build/
+expo-env.d.ts
+
+# Env files
+.env*
+
+# Build artifacts
+*.tsbuildinfo
+
+# Native
+.kotlin/
+*.orig.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+
+# Metro
+.metro-health-check*
+
+# debug
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+
+# Certificates
+*.pem
+
+# Local env variants
+.env*.local
+
+# Generated native folders
+/ios
+/android
+
