@@ -1,6 +1,6 @@
 # 🎯 NudgePal
 
-> A personal finance and habits tracker mobile app built with React Native and Expo
+> A bill tracking and habits tracker mobile app built with React Native and Expo
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 [![React Native](https://img.shields.io/badge/React%20Native-0.81.4-blue.svg)](https://reactnative.dev/)
@@ -8,13 +8,13 @@
 
 ## 📱 Features
 
-
-- 📊 **Dashboard** - Get insights into your spending patterns
+- 💰 **Bill Tracking** - Manage and track your bills efficiently
 - 🎯 **Habit Tracking** - Monitor your daily habits and routines
 - 💧 **Hydration Reminders** - Stay hydrated with smart notifications
-- 📅 **Calendar View** - Visualize your financial data over time
+- 📅 **Calendar View** - Visualize your tracking data over time
 - 🌍 **Multi-Language Support** - Available in English, French, and Arabic
 - 🌙 **Dark Mode** - Eye-friendly interface with automatic theme detection
+- 📊 **Dashboard** - Get insights into your progress and activity patterns
 
 
 ## 🛠️ Tech Stack
@@ -167,4 +167,4 @@ For support, reach out to the project maintainers or open an issue on GitHub.
 
 ---
 
-**Made with ❤️ for personal and habit tracking**
+**Made with ❤️ for bill and habit tracking**
