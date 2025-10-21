@@ -4,7 +4,6 @@
     "slug": "nudgepal",
     "version": "1.0.0",
     "description": "A personal finance and habits tracker mobile app",
-    "owner": "CODINXPRO",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "automatic",
@@ -36,8 +35,9 @@
     },
     "extra": {
       "eas": {
-        "projectId": "89606e2e-a167-4ccc-a1ea-1a9d9263766b"
+        "projectId": "7c0381f3-abaa-45c6-8abf-022e4ebffe31"
       }
-    }
+    },
+    "owner": "achbzk"
   }
 }
