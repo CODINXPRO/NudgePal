@@ -167,4 +167,4 @@ For support, reach out to the project maintainers or open an issue on GitHub.
 
 ---
 
-**Made with ❤️ for personal finance and habit tracking**
+**Made with ❤️ for personal and habit tracking**
