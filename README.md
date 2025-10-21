@@ -8,14 +8,14 @@
 
 ## 📱 Features
 
-- 💰 **Bill Management** - Track your bills and expenses efficiently
+
 - 📊 **Dashboard** - Get insights into your spending patterns
 - 🎯 **Habit Tracking** - Monitor your daily habits and routines
 - 💧 **Hydration Reminders** - Stay hydrated with smart notifications
 - 📅 **Calendar View** - Visualize your financial data over time
 - 🌍 **Multi-Language Support** - Available in English, French, and Arabic
 - 🌙 **Dark Mode** - Eye-friendly interface with automatic theme detection
-- 📱 **Cross-Platform** - Works on iOS, Android, and Web
+
 
 ## 🛠️ Tech Stack
 
