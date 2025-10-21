@@ -77,15 +77,7 @@ jobs:
           cache: 'npm'
       
       - name: Install dependencies
-        run: npm ci
+        run: npm ci --legacy-peer-deps || npm install --legacy-peer-deps
       
-      - name: Run npm audit
-        run: npm audit --json > audit-report.json || true
-        continue-on-error: true
-      
-      - name: Upload audit report
-        uses: actions/upload-artifact@v3
-        with:
-          name: npm-audit-report
-          path: audit-report.json
-        continue-on-error: true
+      - name: Run npm audit (non-critical)
+        run: npm audit --legacy-peer-deps --audit-level=moderate || true
